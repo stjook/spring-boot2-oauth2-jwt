@@ -1,4 +1,4 @@
-package com.marcosbarbero.lab.sec.oauth.jwt.web;
+package com.marcosbarbero.lab.sec.oauth.jwt.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
